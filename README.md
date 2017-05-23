@@ -2,16 +2,12 @@
 
 
 
-Header Configure Parameters
-
-
-
 ## Prerequisites.
 
 ### Jmeter. Install.
 How to installed JMeter [official JMeter](http://jmeter.apache.org/usermanual/get-started.html)
 
-## JMeter. Parameters Configure.
+## Modify Parameters:User Defined Variablesi n JMeter Console.
 * **CAS_SERVER**
 ```
  This your CAS Server where Shibboleth Server is pointing : eg: cas.test.com
@@ -25,6 +21,10 @@ URL of Identity Provider. eg: testidp.test.com
 * **SP_URL**
 ```
 URL of Service Provider: eg: testsp.somesp.com
+```
+## User data List.
+```
+Create a new file in the JMeter\bin\cas-users.csv. having USERNAME,PASSWORD with commma separated.
 ```
 
 
