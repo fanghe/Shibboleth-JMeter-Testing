@@ -13,13 +13,19 @@ How to installed JMeter [official JMeter](http://jmeter.apache.org/usermanual/ge
 
 ## JMeter. Parameters Configure.
 * **CAS_SERVER**
-This your CAS Server where you Shibboleth is pointing : eg: cas.test.com
+```
+ This your CAS Server where Shibboleth Server is pointing : eg: cas.test.com
+```
 
 * **IDPS_SERVER**
+```
 URL of Identity Provider. eg: testidp.test.com
+```
 
 * **SP_URL**
+```
 URL of Service Provider: eg: testsp.somesp.com
+```
 
 
 ## Links.
