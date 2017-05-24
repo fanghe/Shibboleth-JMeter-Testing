@@ -27,6 +27,14 @@ URL of Service Provider: eg: testsp.somesp.com
 Create a new file in the JMeter\bin\cas-users.csv. having USERNAME,PASSWORD with commma separated.
 ```
 
+## Sample Setup.
+### Sample Setup for JMeter
+![SampleSet](/images/setup.jpg?raw=true "Sample Setup")
+
+
+
+### Sample User Configuration for JMeter
+![Sample User Setup](/images/config.jpg?raw=true "Sample User Configuration")
 
 ## Links.
 
