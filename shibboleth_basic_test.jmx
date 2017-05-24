@@ -24,7 +24,7 @@
         <longProp name="ThreadGroup.start_time">1487784043000</longProp>
         <longProp name="ThreadGroup.end_time">1487784043000</longProp>
         <boolProp name="ThreadGroup.scheduler">true</boolProp>
-        <stringProp name="ThreadGroup.duration">60</stringProp>
+        <stringProp name="ThreadGroup.duration">600</stringProp>
         <stringProp name="ThreadGroup.delay"></stringProp>
         <boolProp name="ThreadGroup.delayedStart">true</boolProp>
       </ThreadGroup>
